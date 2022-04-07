@@ -1,0 +1,19 @@
+.bodydiv{
+    width: 100%;
+    height: 20%;
+    border: 2px solid black;
+}
+.bodydiv{
+    display: flex;
+    justify-content: space-around;
+}
+.orderonline{
+    border: 2px solid black;
+    line-height: 1rem;
+}
+.onlinecont{
+    margin-left:1500px;
+}
+.content1{
+    margin-top: 15px;
+}
